@@ -1,6 +1,6 @@
 # Team Pied Piper
 
-## Remote Medicare
+## Remote Medicare - Hack 2021
 
 Description:
 The platform enables the doctor to remotely examine the patient based on the data of the patient’s vitals. Patients have their own personal health assistant. Our chatbot also helps doctor to predict disease based on symptoms.
