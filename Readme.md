@@ -2,6 +2,14 @@
 
 ## Remote Medicare - MINED Hackathon
 
+Team members:
+
+Sahil Nare
+
+Nikhil Kumar Gautam
+
+Meet Soni
+
 Description:
 The platform enables the doctor to remotely examine the patient based on the data of the patient’s vitals. Patients have their own personal health assistant. Our chatbot also helps doctor to predict disease based on symptoms.
 It also predicts if a person is infected by covid using audio of coughing.
@@ -27,5 +35,23 @@ To run the disease prediction flask app and covid prediction python program:
   `python app.py`
 
 Then go to the url given in the command line
-For disease prediction go to url/predict
-For covid prediction go to url/audio
+
+For disease prediction go to `url/predict`
+
+For covid prediction go to `url/audio`
+
+
+
+Packages used:
+
+React JS
+
+Agora SDK
+
+Node/Express JS
+
+Flask
+
+Tensorflow
+
+Keras
