@@ -5,6 +5,7 @@ const path = require("path");
 const cors = require("cors");
 const app = express();
 
+
 const authRouter = require('./routes/auth');
 
 app.use(bodyParser.urlencoded({ extended: false }));
