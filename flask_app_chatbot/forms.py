@@ -6,3 +6,4 @@ class Message(FlaskForm):
     message = StringField('Your answer:', validators=[DataRequired()])
     submit = SubmitField('Send')
     clear = SubmitField('Clear')
+    
