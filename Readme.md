@@ -41,6 +41,8 @@ For disease prediction go to `url/predict`
 For covid prediction go to `url/audio`
 
 
+Video Drive Link: https://drive.google.com/file/d/1vU5ANz0B5WuEMYw6MM242u7okCfMQp8Z/view?usp=sharing
+
 
 Packages used:
 
